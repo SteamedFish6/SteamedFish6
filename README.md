@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @SteamedFish6.
-- 👀 I’m interested in bio-information & deep-learning.
-- 🌱 I’m currently learning pytorch & bio-info tools & developing.
+- 👀 I’m interested in bio-informatics | metagenome | sars-cov-2 demixing | deep-learning.
+- 🌱 I’m currently learning & bio-info tools developing & pytorch.
 - 💞️ I’m currently working on bio-seq process with deep-learning & NLP methods.
+- (I've learned how to build metagenome data anaylsis pipeline.)
 - 📫 How to reach me: Gzy490177@outlook.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
