@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning & bio-info tools developing & pytorch.
 - 💞️ I’m currently working on bio-seq process with deep-learning & NLP methods.
 - (I've learned how to build metagenome data anaylsis pipeline.)
-- 📫 How to reach me: Gzy490177@outlook.com
+- 📫 How to reach me: 1124585812@qq.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
