@@ -2,7 +2,7 @@
 - 👀 I’m interested in bio-informatics | metagenome | virus demixing | deep-learning.
 - 🌱 I’m currently learning & bio-info tools developing & pytorch.
 - 💞️ I’m currently working on metagenomic amalysis with deep-learning ethods.
-- 📫 How to reach me: 1124585812@qq.com
+- 📫 How to reach me: StevenGuo6@163.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
